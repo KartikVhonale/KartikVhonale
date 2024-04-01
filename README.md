@@ -11,6 +11,8 @@ quick learner, java and cpp coder I want to explore new things in coding
 * 🧠  I'm learning AI&ML and MERN
 * 🤝  I'm open to collaborating on Any web project or java project
 
+  https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+
 ### Skills
 
 
