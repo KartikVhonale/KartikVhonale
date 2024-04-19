@@ -53,9 +53,7 @@ quick learner, java and cpp coder I want to explore new things in coding
 
 <b>My GitHub Stats</b><br/>
 [![KartikVhonale's GitHub | Stats](https://stats.quine.sh/KartikVhonale/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KartikVhonale)<br/>
-<a href="http://www.github.com/KartikVhonale"><img src="https://github-readme-stats.vercel.app/api?username=KartikVhonale&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KartikVhonale's GitHub stats" /></a>
 
-<a href="http://www.github.com/KartikVhonale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikVhonale&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikVhonale&show_icons=true&locale=en&layout=compact&theme=radical" alt="KartikVhonale" /></p>
 
