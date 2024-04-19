@@ -22,7 +22,7 @@ quick learner, java and cpp coder I want to explore new things in coding
 
 ### Socials
 
-<p align="left" style="display: flex; gap: 10px;">
+<p align="left" style="display: flex; gap: 27 px;">
     <a href="https://www.codepen.io/KartikVhonale" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
     </a>
