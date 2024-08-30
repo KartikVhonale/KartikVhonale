@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Kartik
 ==============================================================================================================================
 
-Web Developer and Competitive coder
+Developer, Competitive coder and cyber security enthusiast 
 -----------------------------------
 
 quick learner, java and cpp coder I want to explore new things in coding
